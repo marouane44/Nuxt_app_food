@@ -39,6 +39,7 @@
       computed: {
           ...mapState([
               'fooddata',
+              
           ])
       },
       methods
